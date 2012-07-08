@@ -1,5 +1,5 @@
 1. Market 					- DONE
-2. City Hall/Palace
+2. City Hall/Palace				- DONE
 3. Wall
 4. Garden
 5. Caravan place/Tavern
