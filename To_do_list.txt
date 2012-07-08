@@ -1,4 +1,4 @@
-1. Market
+1. Market 					- DONE
 2. City Hall/Palace
 3. Wall
 4. Garden
