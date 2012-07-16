@@ -1,7 +1,7 @@
 1. Market 					- DONE
 2. City Hall/Palace				- DONE
 3. Wall						- DONE
-4. Garden					
+4. Garden					- DONE
 5. Caravan place/Tavern
 6. Military Camps:
 	a. different tents
